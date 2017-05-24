@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+Homestead.yaml
+.env
+/storage/*.sqlite
+/bower_components
+/public/js/*
+/public/css/
+/storage/*.sqlite
+.env.testing
+build
+c3.php
